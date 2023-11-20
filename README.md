@@ -1,4 +1,4 @@
-# ## Emotion Detection Using AI
+# Emotion Detection Using AI
 Ce projet utilise l'intelligence artificielle pour détecter les émotions humaines en temps réel à partir de flux vidéo. Il repose sur un modèle de réseau neuronal pré-entrainé pour la détection d'émotions, intégré avec la détection de visages basée sur l'algorithme HaarCascade.
 
 #### A vérifier avant de commencer
